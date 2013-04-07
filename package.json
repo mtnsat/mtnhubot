@@ -34,7 +34,7 @@
     "redis":              "0.8.2",
     "node-skill":              "",
     "underscore":              "",
-    "jsdom":                   "",
+    "jsdom":                   ""
   },
 
   "engines": {
